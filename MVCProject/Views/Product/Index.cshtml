@@ -1,0 +1,29 @@
+﻿@* @model List<MVCProject.Models.Product>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name</li>
+    }
+</ul> *@
+<h3>ViewBag</h3>
+<ul>
+    @foreach (var item in ViewBag.Products as List<MVCProject.Models.Product>)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
+<h3>Viewdata</h3>
+<ul>
+    @foreach (var item in ViewData["products"] as List<MVCProject.Models.Product>)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
+<h3>TempData</h3>
+<ul>
+    @foreach (var item in TempData["products"] as List<MVCProject.Models.Product>)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
