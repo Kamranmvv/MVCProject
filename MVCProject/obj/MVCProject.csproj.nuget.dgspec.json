@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KamranAbi\\source\\repos\\MVCProject\\MVCProject\\MVCProject.csproj": {}
+    "C:\\Users\\KamranAbi\\OneDrive\\Masaüstü\\MVCProject\\MVCProject\\MVCProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KamranAbi\\source\\repos\\MVCProject\\MVCProject\\MVCProject.csproj": {
+    "C:\\Users\\KamranAbi\\OneDrive\\Masaüstü\\MVCProject\\MVCProject\\MVCProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KamranAbi\\source\\repos\\MVCProject\\MVCProject\\MVCProject.csproj",
+        "projectUniqueName": "C:\\Users\\KamranAbi\\OneDrive\\Masaüstü\\MVCProject\\MVCProject\\MVCProject.csproj",
         "projectName": "MVCProject",
-        "projectPath": "C:\\Users\\KamranAbi\\source\\repos\\MVCProject\\MVCProject\\MVCProject.csproj",
+        "projectPath": "C:\\Users\\KamranAbi\\OneDrive\\Masaüstü\\MVCProject\\MVCProject\\MVCProject.csproj",
         "packagesPath": "C:\\Users\\KamranAbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KamranAbi\\source\\repos\\MVCProject\\MVCProject\\obj\\",
+        "outputPath": "C:\\Users\\KamranAbi\\OneDrive\\Masaüstü\\MVCProject\\MVCProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
